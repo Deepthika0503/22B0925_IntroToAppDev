@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863351475700",
+    "project_id": "budgetapp-f2f24",
+    "storage_bucket": "budgetapp-f2f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863351475700:android:934497f801f3f38c64fda1",
+        "android_client_info": {
+          "package_name": "com.example.bugdet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863351475700-4tisvken1hoocap9s2k6uh7cns2e08t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANRysiwhzGG5lYKoApXmZsuinEOrd7GxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863351475700-4tisvken1hoocap9s2k6uh7cns2e08t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
